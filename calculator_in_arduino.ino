@@ -18,7 +18,6 @@ Keypad myKeypad = Keypad(makeKeymap(keys), rowPins,colPins,ROW,COL);
 
 
 boolean pValue = false;
-boolean next = false;
 boolean final = false;
 String num1,num2;
 int answer;
